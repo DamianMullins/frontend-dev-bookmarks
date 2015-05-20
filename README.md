@@ -10,19 +10,19 @@
 
 ## Frameworks
 
-### CSS
+> ### CSS
 
->- [inuit.css](https://github.com/csswizardry/inuit.css): Powerful, scalable, Sass-based, BEM, OOCSS framework.
-- [Bourbon.io](http://bourbon.io/): A simple and lightweight mixin library for Sass.
+> - [inuit.css](https://github.com/csswizardry/inuit.css): Powerful, scalable, Sass-based, BEM, OOCSS framework.
+- [Bourbon](http://bourbon.io/): A simple and lightweight mixin library for Sass.
   - [Neat](http://neat.bourbon.io/): A lightweight semantic grid framework for Sass and Bourbon.
   - [Bitters](http://bitters.bourbon.io/): Scaffold styles, variables and structure for Bourbon projects.
   - [Refills](http://refills.bourbon.io/): Components and patterns built with Bourbon and Neat.
 - [Scally](https://github.com/chris-pearce/scally): A Sass-based, BEM, OOCSS, responsive ready, CSS framework that provides you with a solid foundation for building reusable UI's quickly.
 - [WinJS Grid](https://github.com/winjs/grid): A CSS grid framework built on SASS to provide an automatic responsive grid for web developers with flexibility for manual control when needed.
 
-### JavaScript
+>### JavaScript
 
->- [React](https://facebook.github.io/react/): A JavaScript library for creating user interfaces by Facebook and Instagram.
+> - [React](https://facebook.github.io/react/): A JavaScript library for creating user interfaces by Facebook and Instagram.
 - [ReactJS.Net](http://reactjs.net/): Use Facebook's React and JSX from C# and other .NET languages.
 
 ## Architecture
