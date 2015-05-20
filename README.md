@@ -1,5 +1,17 @@
 # Frontend Development
 
+## Table of Contents
+
+- [Guides](#guides)
+- [Resources](#resources)
+- [Frameworks](#frameworks)
+- [Architecture](#architecture)
+- [Workflow](#workflow)
+- [Tools](#tools)
+- [Blogs](#blogs)
+- [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+
 ## Guides
 
 >- [Optimizing Performance](https://developers.google.com/web/fundamentals/performance/index): Performance tips & tricks, part of a larger collection of web related resources.
