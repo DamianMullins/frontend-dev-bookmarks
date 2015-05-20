@@ -56,6 +56,7 @@
 - [Responsive Design](http://responsivedesign.is/): Helps take the complexity out of responsive design with details on Design, Development and Strategy.
 - [Web Tools Weekly](http://webtoolsweekly.com/): Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 - [Advanced Sass](http://advancedsass.com/): Receive free tips to battle Real World situations with Sass.
+- [Dev Tips](https://umaar.com/dev-tips/): A developer tip, in the form of a gif, in your inbox 5 days a week.
 
 ## Podcasts
 
