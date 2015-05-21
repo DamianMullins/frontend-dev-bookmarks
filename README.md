@@ -9,8 +9,10 @@
 - [Workflow](#workflow)
 - [Tools](#tools)
 - [Blogs](#blogs)
+- [Blog Posts](#blog-Posts)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
+- [Exams](#exams)
 
 ## Guides
 
@@ -56,6 +58,14 @@
 
 >- [Brad Frost](http://bradfrost.com/blog/)
 - [Anna Debenham](http://maban.co.uk/writing/)
+- [David Walsh](http://davidwalsh.name/)
+- [Nicolas Gallagher](http://nicolasgallagher.com/)
+
+## Blog Posts
+
+>- [Responsive Data Tables: A Comprehensive List of Solutions](http://www.sitepoint.com/responsive-data-tables-comprehensive-list-solutions/)
+- [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+- [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
 ## Newsletters
 
@@ -73,3 +83,7 @@
 - [Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/): Interviews with the people who make responsive redesigns happen.
 - [Five Minutes of JavaScript](https://fivejs.codeschool.com/): The latest news in the JavaScript community.
 - [Javascript Jabber](http://devchat.tv/js-jabber/): A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
+
+## Exams
+
+>- [Sit The Test](https://sitthetest.com/tests): Take tests that prove your skills as a developer.
