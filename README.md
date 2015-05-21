@@ -9,7 +9,7 @@
 - [Workflow](#workflow)
 - [Tools](#tools)
 - [Blogs](#blogs)
-- [Blog Posts](#blog-Posts)
+- [Blog Posts](#blog-posts)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Exams](#exams)
