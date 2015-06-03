@@ -21,6 +21,8 @@
 ## Resources
 
 >- [Website Style Guide Resources](http://styleguides.io/examples.html): Collection of  style guides built by various companies & individuals.
+- [Hackr.io](http://hackr.io/): Share and discover the best programming tutorials and courses online.
+- [ARIA Examples](http://heydonworks.com/practical_aria_examples/): Some practical ARIA examples to enhance your application accessibility.
 
 ## Frameworks
 
@@ -52,7 +54,15 @@
 
 ## Tools
 
+### Web
+
 >- [HTML Entity Lookup](http://entity-lookup.leftlogic.com/): Quickly find an entity based on how it looks.
+- [RegExr](http://www.regexr.com/): Learn, build, & test Regular Expressions
+- [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/): Format JSON data so that it is easy to read and debug by human beings.
+
+### Browser
+
+>- [Web Developer](http://chrispederick.com/work/web-developer/): Adds various web developer tools to a browser.
 
 ## Blogs
 
@@ -60,6 +70,8 @@
 - [Anna Debenham](http://maban.co.uk/writing/)
 - [David Walsh](http://davidwalsh.name/)
 - [Nicolas Gallagher](http://nicolasgallagher.com/)
+- [Bruce Lawson](http://www.brucelawson.co.uk/)
+- [Harry Roberts](http://csswizardry.com/)
 
 ## Blog Posts
 
