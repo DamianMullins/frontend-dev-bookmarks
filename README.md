@@ -20,9 +20,18 @@
 
 ## Resources
 
->- [Website Style Guide Resources](http://styleguides.io/examples.html): Collection of  style guides built by various companies & individuals.
-- [Hackr.io](http://hackr.io/): Share and discover the best programming tutorials and courses online.
-- [ARIA Examples](http://heydonworks.com/practical_aria_examples/): Some practical ARIA examples to enhance your application accessibility.
+>- **Web**
+  - [Website Style Guide Resources](http://styleguides.io/examples.html): Collection of  style guides built by various companies & individuals.
+  - [Hackr.io](http://hackr.io/): Share and discover the best programming tutorials and courses online.
+  - [DevTools Snippets](http://bgrins.github.io/devtools-snippets/): A collection of helpful snippets to use inside of browser devtools
+- **CSS**
+  - [Codrops CSS Reference](http://tympanus.net/codrops/css_reference/): An extensive CSS reference with all the important properties and info to learn CSS from the basics.
+- **JavaScript**
+  - [JavaScript Functions and Helpers](https://plainjs.com/javascript/): Vanilla JS utilities for writing powerful web applications without jQuery.
+- **Accessibility**
+  - [ARIA Examples](http://heydonworks.com/practical_aria_examples/): Some practical ARIA examples to enhance your application accessibility.
+  - [Periodic Table of ARIA 1.0 Roles](http://dylanb.github.io/periodic-aria-roles.html)
+  - [Periodic Table of ARIA 1.0 attributes](http://dylanb.github.io/periodic-aria-attributes.html)
 
 ## Frameworks
 
@@ -54,11 +63,13 @@
 
 ## Tools
 
-### Web
-
->- [HTML Entity Lookup](http://entity-lookup.leftlogic.com/): Quickly find an entity based on how it looks.
-- [RegExr](http://www.regexr.com/): Learn, build, & test Regular Expressions
-- [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/): Format JSON data so that it is easy to read and debug by human beings.
+>- **Web**
+  - [HTML Entity Lookup](http://entity-lookup.leftlogic.com/): Quickly find an entity based on how it looks.
+  - [RegExr](http://www.regexr.com/): Learn, build, & test Regular Expressions
+  - [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/): Format JSON data so that it is easy to read and debug by human beings.
+- **GIT**
+  - [First aid git](http://firstaidgit.io/): A searchable collection of the most frequently asked Git questions.
+  - [GIT Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html): Interactive Git Cheatsheet, categorizing commands based on what they affect.
 
 ### Browser
 
